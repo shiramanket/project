@@ -1,2 +1,2 @@
 def print_tell_story():
-    {print ("shir")}
+    {print ("shira")}
