@@ -1,4 +1,4 @@
-import datetime as dm
+from datetime import datetime as dm
 class employe:
     def __init__(self, name, year_born ,salary):
         self.name = name
